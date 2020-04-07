@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="55088" started-at="2020-04-07T13:04:18Z" finished-at="2020-04-07T13:05:13Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="55088" started-at="2020-04-07T13:04:18Z" finished-at="2020-04-07T13:05:13Z">
+      <class name="Selenium.Login3">
+        <test-method status="PASS" signature="loginadd()[pri:0, instance:Selenium.Login3@5606c0b]" name="loginadd" duration-ms="18718" started-at="2020-04-07T18:34:18Z" finished-at="2020-04-07T18:34:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginadd -->
+      </class> <!-- Selenium.Login3 -->
+      <class name="Selenium.Login2">
+        <test-method status="PASS" signature="loginset()[pri:0, instance:Selenium.Login2@6a396c1e]" name="loginset" duration-ms="18103" started-at="2020-04-07T18:34:36Z" finished-at="2020-04-07T18:34:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginset -->
+      </class> <!-- Selenium.Login2 -->
+      <class name="Selenium.Login1">
+        <test-method status="PASS" signature="loginpage()[pri:0, instance:Selenium.Login1@6c3f5566]" name="loginpage" duration-ms="18225" started-at="2020-04-07T18:34:55Z" finished-at="2020-04-07T18:35:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginpage -->
+      </class> <!-- Selenium.Login1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
